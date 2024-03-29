@@ -11,7 +11,6 @@ This repository hosts the source code for my portfolio website.
 This portfolio website showcases my skills, projects, and experience. It includes sections such as:
 - About Me
 - Projects
-- Skills
 - Contact Information
 
 ## Technologies Used
