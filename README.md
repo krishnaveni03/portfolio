@@ -30,7 +30,3 @@ Feel free to fork this repository and customize it for your own portfolio. You c
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out to me at [your.email@example.com](mailto:your.email@example.com).
